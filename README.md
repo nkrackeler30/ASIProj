@@ -1,4 +1,4 @@
-Adam Wharton passing deep midfielder analysis.
+Passing deep midfielder sample recruitment flow.
 
 Utilizes SkillCorner open dynamic events and physical data.
 
